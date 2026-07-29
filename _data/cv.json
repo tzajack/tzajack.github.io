@@ -1,152 +1,138 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ziao Tang",
+    "email": "ztang285@connect.hkust-gz.edu.cn",
+    "phone": "+86 13823222097; +852 62660497",
+    "website": "https://tzajack.github.io",
+    "summary": "PhD student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou), working on quantum information and computing.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tzajack",
+        "url": "https://github.com/tzajack"
+      },
+      {
+        "network": "World Cube Association",
+        "username": "2024TANG06",
+        "url": "https://www.worldcubeassociation.org/persons/2024TANG06"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "area": "Artificial Intelligence",
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": "Present",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Full academic scholarship",
+        "Primary Supervisor: Ge Bai",
+        "Co-Supervisor: Xin Wang"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "The University of Hong Kong",
+      "area": "Mathematics",
+      "studyType": "BSc",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Formalized quantum information theory",
+      "keywords": [
+        "Lean 4",
+        "Quantum information theory",
+        "Quantum channels",
+        "Quantum states"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": ""
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Quantum information and computing",
+      "keywords": []
+    },
+    {
+      "name": "Quantum error correction",
+      "keywords": []
+    },
+    {
+      "name": "AI for quantum information and computing theory",
+      "keywords": []
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Logical Entangling with Phantom Codes in Hypergraph Products",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2607.12948",
+      "summary": "He, K.*, Tang, Z.*, Li, Z., Bai, G., & Wang, X."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2607.09632",
+      "summary": "Zhu, C., Tang, Z., Zhen, G., Cao, Y., Zhao, Y., Chen, R., Zhao, X., Zhang, L., & Wang, X."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Simulation of adjoints and Petz recovery maps for unknown quantum channels",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2602.05828",
+      "summary": "Zhu, C.*, Tang, Z.*, Zhen, G., Li, Y., Bai, G., & Wang, X."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2607.21533",
+      "summary": "Zhang, L., Zhao, Y., ..., Tang, Z., ..., & Wang, X."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Simulation of adjoints and Petz recovery maps for unknown quantum channels",
+      "event": "Beyond IID in Information Theory 14",
+      "date": "2026-06-22",
+      "location": "CUHK-Shenzhen, China",
+      "description": "Poster presentation"
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
