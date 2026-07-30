@@ -45,6 +45,10 @@ Conference Participation
 * [Beyond IID in Information Theory 14](https://biid-2026-website-git-dev-jingtian-zhaos-projects.vercel.app), June 22 - June 26, 2026, CUHK-Shenzhen, China
   * Poster Presentation: Simulation of adjoints and Petz recovery maps for unknown quantum channels
 
+Teaching
+======
+* 2025-26 Spring: Teaching Assistant, AIAA 4711: Introduction to Advanced Algorithmic Techniques
+
 Skills
 ======
 * Languages: Mandarin, English, Cantonese, Spanish (beginner level)
