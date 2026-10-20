@@ -21,6 +21,9 @@ Academic Publications and Preprints
 ======
 Primary Publications
 ------
+* [Classical Capacity and Entanglement Cost of the Amplitude Damping Channel](https://arxiv.org/abs/2609.28592)<br>
+  <strong>Tang, Z.</strong>, Zhu, C., Bai, G., & Wang, X.<br>
+  <small>Cited by OpenAI in its [work on Problem 276](https://github.com/openai/math/blob/main/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/paper.pdf) (Reference [18]).</small>
 * [Logical Entangling with Phantom Codes in Hypergraph Products](https://arxiv.org/abs/2607.12948)<br>
   He, K.<sup>*</sup>, <strong>Tang, Z.</strong><sup>*</sup>, Li, Z., Bai, G., & Wang, X.
 * [Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory](https://arxiv.org/abs/2607.09632)<br>
