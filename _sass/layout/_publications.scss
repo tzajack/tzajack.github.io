@@ -1,4 +1,13 @@
 /* Publication listing */
+.publications-page-body {
+  padding-bottom: 0;
+
+  .page__footer {
+    position: relative;
+    bottom: auto;
+  }
+}
+
 .publications-page {
   &__intro {
     max-width: 42rem;
