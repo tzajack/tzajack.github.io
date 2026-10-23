@@ -20,6 +20,9 @@ Academic Publications and Preprints
   <strong>Tang, Z.</strong>, Zhu, C., Bai, G., & Wang, X.<br>
   <small>Cited by OpenAI in its [work on Problem 276](https://github.com/openai/math/blob/main/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/paper.pdf) (Reference [18]).</small>
 
+* [A Sharp Local-Question Threshold for GHZ-Equatorial Completeness in Four-Player XOR Games](https://arxiv.org/abs/2608.11139)<br>
+  <strong>Tang, Z.</strong>, Zhu, C., Bai, G., Wang, X., & Chen, R.
+
 * [Logical Entangling with Phantom Codes in Hypergraph Products](https://arxiv.org/abs/2607.12948)<br>
   He, K.<sup>*</sup>, <strong>Tang, Z.</strong><sup>*</sup>, Li, Z., Bai, G., & Wang, X.
 
