@@ -2,8 +2,9 @@
 title: "Classical Capacity and Entanglement Cost of the Amplitude Damping Channel"
 collection: publications
 category: primary
+authors: "<strong>Tang, Z.</strong>, Zhu, C., Bai, G., &amp; Wang, X."
 permalink: /publication/2026-09-23-amplitude-damping-channel
-excerpt: "Classical capacity and entanglement cost of the amplitude damping channel. Cited by OpenAI in its work on Problem 276."
+excerpt: "Single-letter formulas for the classical capacity and entanglement cost of the amplitude damping channel; cited by OpenAI in its work on Problem 276."
 date: 2026-09-23
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2609.28592"

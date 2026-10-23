@@ -195,7 +195,20 @@
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
-    display: block;
+    display: flex;
+    align-items: flex-start;
+    white-space: normal;
+    gap: 0.25em;
+
+    i {
+      flex: 0 0 auto;
+      margin-top: 0.2em;
+    }
+
+    span {
+      min-width: 0;
+      overflow-wrap: break-word;
+    }
   }
 }
 

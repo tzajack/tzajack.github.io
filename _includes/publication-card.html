@@ -1,0 +1,10 @@
+<article class="publication-card" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  <p class="publication-card__meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y' }}</time><span aria-hidden="true">·</span>{{ post.venue }}</p>
+  <h3 class="publication-card__title" itemprop="headline"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+  <p class="publication-card__authors" itemprop="author">{{ post.authors }}</p>
+  {% if post.excerpt %}<p class="publication-card__summary">{{ post.excerpt | escape }}</p>{% endif %}
+  <div class="publication-card__links">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}" aria-label="Read {{ post.title | escape }} on arXiv">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+    <a href="{{ post.url | relative_url }}" aria-label="View details for {{ post.title | escape }}">Details <span aria-hidden="true">→</span></a>
+  </div>
+</article>
