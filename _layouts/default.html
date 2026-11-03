@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body{% if page.body_class %} class="{{ page.body_class | escape }}"{% endif %}>
+  <body class="{{ page.body_class | escape }}{% if site.visitor_map.embed_url != '' and site.visitor_map.embed_url %} has-visitor-map{% endif %}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -22,6 +22,7 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
+        {% include visitor-map.html %}
       </footer>
     </div>
 

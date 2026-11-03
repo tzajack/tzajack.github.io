@@ -2,6 +2,41 @@
    FOOTER
    ========================================================================== */
 
+body.has-visitor-map {
+  padding-bottom: 0;
+
+  .page__footer {
+    position: relative;
+    bottom: auto;
+  }
+}
+
+.visitor-map {
+  max-width: 380px;
+  margin: 1.5rem auto 0;
+  text-align: center;
+
+  h2 {
+    margin: 0 0 0.75rem;
+    color: var(--global-text-color);
+    font-size: 0.85rem;
+  }
+
+  &__widget {
+    width: 100%;
+    min-height: 160px;
+    img, iframe, canvas {
+      max-width: 100%;
+    }
+  }
+
+  p {
+    margin: 0.5rem 0 0;
+    font-size: 0.65rem;
+    color: var(--global-text-color);
+  }
+}
+
 .page__footer {
   @include clearfix;
   background-color: var(--global-footer-bg-color);

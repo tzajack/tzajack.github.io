@@ -152,6 +152,11 @@ social:
 
 
 # Analytics
+visitor_map:
+  # Paste the HTTPS map.js src from the MapMyVisitors widget for this site.
+  # Leave blank to disable the map and tracking.
+  embed_url: "https://mapmyvisitors.com/map.js?d=pB2RtEP2qTQXrIIXGr9x3a60TY4Zs8CTY25OcIsfUYU&cl=ffffff&w=a"
+
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:

@@ -1,0 +1,9 @@
+{% if site.visitor_map.embed_url != '' and site.visitor_map.embed_url %}
+<section class="visitor-map" aria-labelledby="visitor-map-title">
+  <h2 id="visitor-map-title">Visitors around the world</h2>
+  <div class="visitor-map__widget">
+    <script async id="mapmyvisitors" src="{{ site.visitor_map.embed_url | escape }}"></script>
+  </div>
+  <p>Approximate visitor locations · Powered by <a href="https://mapmyvisitors.com/">MapMyVisitors</a></p>
+</section>
+{% endif %}
